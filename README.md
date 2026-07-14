@@ -22,7 +22,7 @@ The error quaternion is found through subtracting the measured quaternion (from 
 
 <img width="376" height="283" alt="image" src="https://github.com/user-attachments/assets/9e4fba0d-ca25-4d87-af69-c497ee08174c" />
 
-Notice the direction of X (nose of the rocket) and Z. To counteract this, I added an initial angle of pi/2 in the pitch to start the x axis facing up, in other words changing the rocket from facing sideways to upwards. As such the reference quaternion also takes that trasnformation into account, resulting in the seen q_desired.
+Notice the direction of X (nose of the rocket) and Z (picture from MATLAB 3DOF documentation). To counteract this, I added an initial angle of pi/2 in the pitch to start the x axis facing up, in other words changing the rocket from facing sideways to upwards. As such the reference quaternion also takes that trasnformation into account, resulting in the seen q_desired.
 
 #### Swing Twist Decomposition 
 <img width="1786" height="503" alt="image" src="https://github.com/user-attachments/assets/20ceabe7-c9bc-4f3c-9ebf-024dd584584e" />
