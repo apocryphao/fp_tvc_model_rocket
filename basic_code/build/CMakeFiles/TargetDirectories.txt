@@ -1,0 +1,5 @@
+/home/iltebir/frost_princess/regular_software/build/CMakeFiles/fp_software.dir
+/home/iltebir/frost_princess/regular_software/build/CMakeFiles/control.dir
+/home/iltebir/frost_princess/regular_software/build/CMakeFiles/state.dir
+/home/iltebir/frost_princess/regular_software/build/CMakeFiles/edit_cache.dir
+/home/iltebir/frost_princess/regular_software/build/CMakeFiles/rebuild_cache.dir

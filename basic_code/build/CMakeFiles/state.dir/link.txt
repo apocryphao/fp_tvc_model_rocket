@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstate.a CMakeFiles/state.dir/src/state_estimator.cpp.o
+/usr/bin/ranlib libstate.a

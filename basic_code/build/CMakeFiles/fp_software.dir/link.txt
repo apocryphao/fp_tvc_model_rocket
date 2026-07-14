@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/fp_software.dir/src/main.cpp.o -o fp_software  libcontrol.a libstate.a 

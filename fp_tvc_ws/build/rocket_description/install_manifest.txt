@@ -1,0 +1,15 @@
+/home/iltebir/frost_princess/fp_tvc_ws/install/rocket_description/share/ament_index/resource_index/package_run_dependencies/rocket_description
+/home/iltebir/frost_princess/fp_tvc_ws/install/rocket_description/share/ament_index/resource_index/parent_prefix_path/rocket_description
+/home/iltebir/frost_princess/fp_tvc_ws/install/rocket_description/share/rocket_description/environment/ament_prefix_path.sh
+/home/iltebir/frost_princess/fp_tvc_ws/install/rocket_description/share/rocket_description/environment/ament_prefix_path.dsv
+/home/iltebir/frost_princess/fp_tvc_ws/install/rocket_description/share/rocket_description/environment/path.sh
+/home/iltebir/frost_princess/fp_tvc_ws/install/rocket_description/share/rocket_description/environment/path.dsv
+/home/iltebir/frost_princess/fp_tvc_ws/install/rocket_description/share/rocket_description/local_setup.bash
+/home/iltebir/frost_princess/fp_tvc_ws/install/rocket_description/share/rocket_description/local_setup.sh
+/home/iltebir/frost_princess/fp_tvc_ws/install/rocket_description/share/rocket_description/local_setup.zsh
+/home/iltebir/frost_princess/fp_tvc_ws/install/rocket_description/share/rocket_description/local_setup.dsv
+/home/iltebir/frost_princess/fp_tvc_ws/install/rocket_description/share/rocket_description/package.dsv
+/home/iltebir/frost_princess/fp_tvc_ws/install/rocket_description/share/ament_index/resource_index/packages/rocket_description
+/home/iltebir/frost_princess/fp_tvc_ws/install/rocket_description/share/rocket_description/cmake/rocket_descriptionConfig.cmake
+/home/iltebir/frost_princess/fp_tvc_ws/install/rocket_description/share/rocket_description/cmake/rocket_descriptionConfig-version.cmake
+/home/iltebir/frost_princess/fp_tvc_ws/install/rocket_description/share/rocket_description/package.xml
