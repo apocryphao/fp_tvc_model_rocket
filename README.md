@@ -51,7 +51,7 @@ Simple section on bringing in the torque and the rocket motor thrust to feed int
 
 ### Inertia and Mass
 <img width="1556" height="657" alt="image" src="https://github.com/user-attachments/assets/1c900a1c-fa40-4c24-b42f-0cbd09945cc5" />
-The Inertia matrix is built from heavily simplfying the rocket body into tubes and using some common equations to build the inertia matrix. In the comming future as the rocket gets developed further, an accurate Iyy (rocket is assumed symmetric so Izz aso) will be exported from the software Open Rocket and converted to a loop up table for a higher quality Inertia matrix as it is extremely crucial for gimballing an rocket motor. The mass takes into account that the burning of the motor decreases the mass. 
+The Inertia matrix is built from heavily simplfying the rocket body into tubes and using some common equations to build the inertia matrix. In the comming future as the rocket gets developed further, an accurate Iyy (rocket is assumed symmetric so Izz also) will be exported from the software Open Rocket and converted to a loop up table for a higher quality Inertia matrix as it is extremely crucial for gimballing an rocket motor. The mass takes into account that the burning of the motor decreases the mass. 
 
 ### Kalman Filter 
 In development..
