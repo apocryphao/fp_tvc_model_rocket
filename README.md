@@ -18,7 +18,7 @@ The attitude estimation strategy for this project revolves around using quaterni
 
 #### Quaternion Error
 <img width="1022" height="406" alt="image" src="https://github.com/user-attachments/assets/831faf5c-a557-4637-a597-cbf25ec799a7" />
-The error quaternion is found through subtracting the measured quaternion (from the gyroscope in the IMU and converting euler -> quaternion) from the reference/desired quaternion. Using hamilton product / quaternion multiplication, we can get the error quaternion from multiplying reference and conjugate of measured quaternion. Notice however the desired_q is not just [1 0 0 0] or in otherwards facing straight up. This is because the reference frame of the 3dof or 6dof does NOT align with rockets but follows aircraft standards. 
+The error quaternion is found through subtracting the measured quaternion (from the gyroscope in the IMU and converting euler -> quaternion) from the reference/desired quaternion. Using hamilton product / quaternion multiplication, we can get the error quaternion from multiplying reference and conjugate of measured quaternion. Notice however the desired_q is not just [1 0 0 0] or in otherwards facing straight up. This is because the reference frame of the 3dof or 6dof simulink block does NOT align with rockets but follows aircraft standards. 
 
 <img width="376" height="283" alt="image" src="https://github.com/user-attachments/assets/9e4fba0d-ca25-4d87-af69-c497ee08174c" />
 
