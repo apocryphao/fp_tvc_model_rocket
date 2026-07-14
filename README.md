@@ -59,6 +59,7 @@ In development..
 ## Flight Computer Hardware
 <img width="552" height="770" alt="Screenshot 2026-01-16 at 18-41-22 • Discord @tompham2112" src="https://github.com/user-attachments/assets/4da298c4-0f3b-4b7f-bd16-dfad3d521bed" />
 <img width="535" height="770" alt="Screenshot 2026-01-16 at 18-41-14 • Discord @tompham2112" src="https://github.com/user-attachments/assets/96dc0f9f-b430-4f9d-8fd7-c23c335dc66a" />
+
 Custom PCB design development at the time of writing. Confidence in design from the past experience in PCB design. 
 
 ## Thrust Vector Mount & Rocket 
